@@ -115,6 +115,7 @@ Practical exercises focused on security monitoring, log analysis, threat detecti
 
 - **Cisco Certified Network Associate (CCNA)** — Completed
 - **Cisco Networking Academy: Networking Basics** — Completed
+- **Cisco Certified Network Associate (CCNA) Training — Corvit Systems Rawalpindi** — Completed
 - **CCNA Networking Internship — TechBiz Academy** — Practical Training
 
 ---
