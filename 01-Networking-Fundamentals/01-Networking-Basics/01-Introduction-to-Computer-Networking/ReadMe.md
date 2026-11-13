@@ -1,78 +1,146 @@
-# 🌐 Networking Basics
+# 🌐 Introduction to Computer Networking
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Computer%20Networking-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Networking%20%26%20Cybersecurity-red?style=for-the-badge" />
+</p>
 
 ## 📌 Overview
 
-This section covers the fundamental concepts of computer networking, providing a foundation for understanding how devices communicate, exchange information, and share resources over a network.
+Welcome to the **Introduction to Computer Networking** section of my Networking & Cybersecurity Portfolio.
 
-These concepts form the foundation of my networking knowledge and support my ongoing learning in Cisco networking, network security, and cybersecurity.
+This section focuses on building a strong foundation in computer networking by exploring fundamental concepts, communication principles, network functionality, and real-world applications.
 
-## 🎯 Learning Objectives
+It covers how connected devices communicate, exchange information, share resources, and work together within different network environments.
 
-- Understand the fundamentals of computer networking.
-- Identify different types of computer networks.
-- Understand basic network architecture.
-- Learn how network devices communicate.
-- Understand data transmission methods.
-- Explore network performance metrics.
-- Understand common network topologies.
-- Apply networking concepts through practical exercises.
-
-## 📚 Topics Covered
-
-| # | Topic | Description |
-|---|---|---|
-| 01 | Introduction to Networking | Networking fundamentals and applications |
-| 02 | Types of Networks | LAN, WAN, MAN, PAN and WLAN |
-| 03 | Network Architecture | Client-Server and Peer-to-Peer |
-| 04 | Network Components | Basic networking hardware |
-| 05 | Network Communication | How devices exchange data |
-| 06 | Data Transmission | Simplex, Half-Duplex and Full-Duplex |
-| 07 | Network Performance | Bandwidth, Throughput, Latency and Jitter |
-| 08 | Network Topologies | Star, Bus, Ring, Mesh and Hybrid |
-| 09 | Real-World Networks | Home, Office and Enterprise Networks |
-| 10 | Practical Exercises | Hands-on networking fundamentals |
-
-## 🧪 Practical Learning
-
-This section includes:
-
-- Networking concept diagrams.
-- Real-world networking examples.
-- Basic networking exercises.
-- Technical notes and explanations.
-- Practical observations and learning outcomes.
-
-## 🛠️ Tools & Resources
-
-- Cisco Packet Tracer
-- Wireshark
-- Microsoft Visio / Draw.io
-- Windows Command Prompt
-- Linux Terminal
-
-## 📖 Learning Approach
-
-Each topic is documented with:
-
-1. Concept and definition.
-2. Technical explanation.
-3. Real-world example.
-4. Diagram or visual representation.
-5. Practical exercise (where applicable).
-6. Key takeaways.
-
-## 🚀 Career Relevance
-
-Understanding networking fundamentals is essential for my development in:
-
-- Network Engineering
-- Network Security
-- Security Operations Center (SOC)
-- Security Monitoring
-- Cybersecurity
+These fundamentals are essential for understanding advanced networking technologies, network security, and Security Operations Center (SOC) operations.
 
 ---
 
-**Part of my Networking & Cybersecurity Portfolio.**
+## 🎯 Learning Objectives
 
-*Learn • Practice • Document • Improve*
+Through this section, I aim to:
+
+- Understand the fundamentals of computer networking.
+- Learn the purpose and importance of networking.
+- Understand how computer networks operate.
+- Explore networking benefits and limitations.
+- Identify common networking terminology.
+- Understand networking applications in everyday life.
+- Build a foundation for advanced networking and cybersecurity.
+
+---
+
+## 📚 Topics & Documentation
+
+The following topics are covered in this section:
+
+| # | Topic | Documentation |
+|---|---|---|
+| 01 | What is Computer Networking? | [Read Notes](./01-What-is-Computer-Networking.md) |
+| 02 | Purpose of Networking | [Read Notes](./02-Purpose-of-Networking.md) |
+| 03 | Importance of Networking | [Read Notes](./03-Importance-of-Networking.md) |
+| 04 | Advantages & Disadvantages | [Read Notes](./04-Advantages-and-Disadvantages.md) |
+| 05 | How Computer Networks Work | [Read Notes](./05-How-Computer-Networks-Work.md) |
+| 06 | Networking in Everyday Life | [Read Notes](./06-Networking-in-Everyday-Life.md) |
+| 07 | Basic Networking Terminologies | [Read Notes](./07-Basic-Networking-Terminologies.md) |
+
+---
+
+## 🧠 Key Concepts Covered
+
+- Computer Networking Fundamentals
+- Network Communication
+- Data and Resource Sharing
+- Network Infrastructure
+- Client and Server Concepts
+- Network Connectivity
+- Networking Protocols
+- Network Nodes and Hosts
+- Real-World Network Applications
+
+---
+
+## 🖼️ Visual Learning
+
+The `Images/` directory is used to organize networking diagrams and visual learning materials.
+
+Planned visual documentation includes:
+
+- Basic Computer Network Diagram
+- Network Communication Process
+- Connected Devices Visualization
+- Real-World Networking Examples
+
+---
+
+## 🔐 Cybersecurity Relevance
+
+Computer networking is a fundamental part of cybersecurity.
+
+Understanding how networks operate helps develop the skills required to:
+
+- Understand network traffic and communication.
+- Identify suspicious network activities.
+- Understand common network vulnerabilities.
+- Analyze communication between systems.
+- Understand the role of network security controls.
+- Develop foundational knowledge for SOC operations.
+
+These concepts will support my preparation for an **Entry-Level SOC Analyst** position.
+
+---
+
+## 🛠️ Tools & Learning Resources
+
+| Tool | Purpose |
+|---|---|
+| Cisco Packet Tracer | Network simulation |
+| Wireshark | Network traffic analysis |
+| Windows CMD / PowerShell | Network diagnostics |
+| Linux Terminal | Networking commands |
+| Draw.io | Network diagrams and visualization |
+
+---
+
+## 📈 Learning Outcomes
+
+After completing this section, I aim to:
+
+- Explain fundamental networking concepts.
+- Understand basic network communication.
+- Identify the purpose of computer networks.
+- Describe common networking terminology.
+- Relate networking concepts to real-world environments.
+- Understand the relationship between networking and cybersecurity.
+
+---
+
+## 📚 Learning References
+
+- [Cisco Networking Academy](https://www.netacad.com/)
+- [Cisco Official Website](https://www.cisco.com/)
+- [Cloudflare Learning Center](https://www.cloudflare.com/learning/)
+- [Wireshark Documentation](https://www.wireshark.org/docs/)
+
+---
+
+## 🔗 Related Sections
+
+- [Networking Fundamentals](../README.md)
+- [Network Topologies](../../02-Network-Topologies/)
+- [OSI Model](../../03-OSI-Model/)
+- [TCP/IP Model](../../04-TCP-IP-Model/)
+
+---
+
+<p align="center">
+  <b>Networking & Cybersecurity Portfolio</b>
+  <br/>
+  <i>Learn • Practice • Document • Improve</i>
+</p>
+
+<p align="center">
+  ⭐ Building a strong foundation for a career in Networking and Cybersecurity.
+</p>
