@@ -50,7 +50,7 @@ My objective is to strengthen my technical foundation and develop industry-relev
 **Training Certificate:**
 
 <p align="center">
-  <img src="./Corvit-CCNA-Training/CCNA-Training-Certificate.png" alt="Corvit Systems Rawalpindi CCNA Training Certificate" width="700" />
+  <img src="CCNA-Training\CCNA_Training.jpg" alt="Corvit Systems Rawalpindi CCNA Training Certificate" width="700" />
 </p>
 
 ---
