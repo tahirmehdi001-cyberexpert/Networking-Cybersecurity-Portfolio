@@ -80,7 +80,7 @@ My objective is to strengthen my technical foundation and develop industry-relev
 **Certificate:**
 
 <p align="center">
-  <img src="./Cisco-Networking-Basics/Networking-Basics-Certificate.png" alt="Cisco Networking Academy Networking Basics Certificate" width="700" />
+  <img src="Awarded-by-CISCO\Networking_Basics.jpg" alt="Cisco Networking Academy Networking Basics Certificate" width="700" />
 </p>
 
 ---
