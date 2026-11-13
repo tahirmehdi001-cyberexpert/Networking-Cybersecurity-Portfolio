@@ -155,14 +155,26 @@ Developing practical cybersecurity knowledge through security-focused exercises,
 
 ---
 
-## 🏅 Certifications & Professional Training
+## 🏅 Certifications & Professional Development
 
-| Certification / Training | Organization | Status |
+### ✅ Completed Certifications
+
+| Certification | Organization | Status |
 |---|---|---|
 | Cisco Certified Network Associate (CCNA) | Cisco | Completed |
 | Networking Basics | Cisco Networking Academy | Completed |
 | CCNA Training | Corvit Systems Rawalpindi | Completed |
 | CCNA Networking Internship | TechBiz Academy | Practical Training |
+
+### 🎯 Planned Certifications — SOC Analyst Career Path
+
+| # | Certification | Focus Area | Status |
+|---|---|---|---|
+| 01 | CompTIA Security+ | Cybersecurity Fundamentals | Planned |
+| 02 | Blue Team Level 1 (BTL1) | SOC Operations & Incident Response | Planned |
+| 03 | Microsoft SC-200 | Security Operations & Threat Detection | Planned |
+
+*My next certification goals are focused on developing practical Blue Team, SIEM, threat detection, and incident response capabilities to prepare for my first entry-level SOC Analyst role.*
 
 *Official certification credentials and supporting documents are maintained in the Certifications & Training section.*
 
