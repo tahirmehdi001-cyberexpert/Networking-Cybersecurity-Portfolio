@@ -64,7 +64,7 @@ A simplified communication process involves the following steps:
 ### Network Communication Diagram
 
 <p align="center">
-  <img src="../Images/network-communication.png" alt="Basic Network Communication Diagram" width="750" />
+  <img src="Images\Basic_Network_Communication_Flow.png" alt="Basic Network Communication Diagram" width="750" />
 </p>
 
 *Illustration: A simplified representation of communication between network-connected devices.*
