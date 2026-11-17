@@ -45,6 +45,20 @@ In a typical Ethernet LAN, devices communicate using network interfaces and MAC 
 
 Routers connect different IP networks and provide communication between the LAN and external networks, such as the internet.
 
+## 🖼️ LAN Network Diagram
+
+The following diagram illustrates a typical Local Area Network (LAN), showing how computers, servers, printers, and wireless devices communicate through network switches and routers.
+
+<p align="center">
+  <img src="./Images/LAN.png"
+       alt="Local Area Network Architecture Diagram"
+       width="900" />
+</p>
+
+<p align="center">
+  <i>Figure 1: Basic Local Area Network (LAN) Architecture</i>
+</p>
+
 ### Basic Working Process
 
 1. **Device Connection:** Computers and other devices connect to the network through Ethernet cables or Wi-Fi.
