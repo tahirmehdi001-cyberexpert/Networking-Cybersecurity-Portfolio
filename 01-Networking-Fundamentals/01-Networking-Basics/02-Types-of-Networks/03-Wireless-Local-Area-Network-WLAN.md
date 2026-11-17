@@ -542,53 +542,136 @@ Understanding WLAN is important for network administrators and cybersecurity pro
 
 ---
 
-## 🧪 16. Practical Learning Activities
+## 🧪 16. Practical Learning Activities – WLAN Lab
 
-Build practical WLAN knowledge using a network simulator and your own authorized wireless environment.
+Build practical WLAN knowledge using Cisco Packet Tracer and an authorized wireless environment.
 
-### Suggested Packet Tracer Lab
+### 🎯 Lab Objective
 
-**Objective:** Create a simple wireless network and connect multiple clients.
+Create a Wireless Local Area Network (WLAN) in Cisco Packet Tracer, configure wireless security, connect multiple clients, and verify network connectivity.
 
-**Required Devices:**
-- One wireless router or access point.
-- Two laptops with wireless interfaces.
-- One smartphone or another wireless client.
-- One server (optional).
+### 🖥️ Required Devices
 
-**Tasks:**
+| Device                        |     Quantity | Purpose                        |
+| ----------------------------- | -----------: | ------------------------------ |
+| Wireless Router (WRT300N)     |            1 | Provides wireless connectivity |
+| Laptop-PT                     |            2 | Wireless client devices        |
+| Smartphone-PT                 |            1 | Additional wireless client     |
+| Server-PT                     | 1 (Optional) | Provides network services      |
+| Copper Straight-Through Cable |  As required | Wired connections              |
 
-1. Add a wireless router to the topology.
-2. Configure a wireless SSID.
-3. Set WPA2 security with a strong password.
-4. Connect the wireless clients.
-5. Configure DHCP for automatic IP addressing.
-6. Verify that each client receives an IP address.
-7. Test connectivity between devices where permitted.
-8. Connect the wireless router to an external network.
-9. Test Internet or server connectivity in the simulation.
-
-### Example Lab Topology
+### 🗺️ Example Lab Topology
 
 ```mermaid
 flowchart TD
     A[Internet / Server] --> B[Wireless Router / AP]
-    B --> C[Laptop 1]
-    B --> D[Laptop 2]
-    B --> E[Smartphone]
-    B --> F[Wireless Printer]
+    B -. Wi-Fi .-> C[Laptop 1]
+    B -. Wi-Fi .-> D[Laptop 2]
+    B -. Wi-Fi .-> E[Smartphone]
+    B -. Wi-Fi .-> F[Wireless Printer]
 ```
 
-**Expected Learning Outcomes:**
+### ⚙️ Lab Configuration Tasks
 
-- Understand wireless network components.
-- Configure an SSID and wireless security.
-- Connect wireless clients.
-- Understand DHCP addressing.
-- Test wireless network connectivity.
-- Identify basic WLAN troubleshooting issues.
+1. Open Cisco Packet Tracer.
+2. Add one WRT300N Wireless Router.
+3. Add two Laptop-PT devices and one Smartphone-PT.
+4. Configure the wireless network name (SSID), for example `WLAN-LAB`.
+5. Enable WPA2 Personal security and configure a strong password.
+6. Enable DHCP on the wireless router.
+7. Connect all wireless clients to the configured SSID.
+8. Verify that each client receives an IP address automatically.
+9. Test connectivity between wireless clients using ping where supported.
+10. Optionally connect a server or external network and test connectivity.
+
+### 🔐 Suggested Wireless Configuration
+
+| Setting             | Example Value                  |
+| ------------------- | ------------------------------ |
+| Network Name (SSID) | `WLAN-LAB`                     |
+| Security Mode       | WPA2 Personal                  |
+| Encryption          | AES (if available)             |
+| Wireless Password   | Use a strong lab-only password |
+| IP Configuration    | DHCP                           |
+| Network Address     | `192.168.0.0/24`               |
+| Default Gateway     | `192.168.0.1`                  |
+
+*These are suggested lab settings. Actual Packet Tracer options may vary by device model.*
+
+### 📸 Packet Tracer Screenshots & Evidence
+
+Capture your own screenshots while completing the lab. Add them to the repository's `images` folder using the suggested filenames.
+
+**1. Complete WLAN Topology**
+
+Show the wireless router, two laptops, smartphone, and optional server in Packet Tracer.
+
+`[SCREENSHOT PLACEHOLDER: Complete WLAN topology in Cisco Packet Tracer]`
+
+Suggested filename: `wlan-topology.png`
+
+**2. Wireless Router Configuration**
+
+Show the configured SSID and wireless network settings.
+
+`[SCREENSHOT PLACEHOLDER: Wireless SSID configuration]`
+
+Suggested filename: `wlan-ssid-configuration.png`
+
+**3. Wireless Security Configuration**
+
+Show WPA2 Personal security and the configured encryption settings. Do not expose your actual password in the screenshot.
+
+`[SCREENSHOT PLACEHOLDER: WPA2 wireless security configuration]`
+
+Suggested filename: `wlan-security-configuration.png`
+
+**4. Wireless Client Connection**
+
+Show a laptop or smartphone successfully connected to `WLAN-LAB`.
+
+`[SCREENSHOT PLACEHOLDER: Wireless client connected to WLAN]`
+
+Suggested filename: `wlan-client-connection.png`
+
+**5. DHCP IP Address Verification**
+
+Show the IP configuration of a connected wireless client, including its IP address, subnet mask, and default gateway.
+
+`[SCREENSHOT PLACEHOLDER: DHCP-assigned IP address on wireless client]`
+
+Suggested filename: `wlan-dhcp-verification.png`
+
+**6. Connectivity Testing**
+
+Show successful ping results between wireless clients or between a client and the optional server.
+
+`[SCREENSHOT PLACEHOLDER: Successful WLAN connectivity test]`
+
+Suggested filename: `wlan-connectivity-test.`💾 Packet Tracer Project Submission
+
+
+
+### ✅ Expected Learning Outcomes
+
+After completing this lab, you should be able to:
+
+- Understand wireless networking components.
+- Configure a wireless SSID.
+- Apply WPA2 wireless security.
+- Connect multiple wireless clients.
+- Understand DHCP-based IP addressing.
+- Verify wireless network connectivity.
+- Identify basic WLAN configuration and troubleshooting issues.
+
+###
 
 ---
+
+**Learning Principle:** Build the network, configure wireless security, test connectivity, capture evidence, and document your results.
+
+
+
 
 ## 📊 17. Quick Revision
 
