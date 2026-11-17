@@ -250,7 +250,7 @@ The access point coordinates wireless communication and provides connectivity to
 </p>
 
 <p align="center">
-  <i>Figure 1: Example of WLAN Infrastructure Mode</i>
+  <i>Example of WLAN Infrastructure Mode</i>
 </p>
 
 ### B. Ad Hoc Mode
@@ -259,11 +259,15 @@ In ad hoc mode, wireless devices communicate directly with each other without re
 
 **Example:** Two compatible devices creating a direct wireless connection.
 
-```mermaid
-flowchart LR
-    A[Laptop 1] <--> B[Laptop 2]
-    B <--> C[Laptop 3]
-```
+<p align="center">
+  <img src="./Images/Ad_Hoc_Mode.png"
+       alt="Wireless Local Area Network (WLAN) Architecture Diagram"
+       width="900">
+</p>
+
+<p align="center">
+  <i>Example of WLAN Ad-Hoc Mode</i>
+</p>
 
 ### Infrastructure vs. Ad Hoc
 
