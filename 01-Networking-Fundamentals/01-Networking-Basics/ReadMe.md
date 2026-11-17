@@ -28,15 +28,15 @@ This section covers the fundamental concepts of computer networking, providing a
 | # | Topic | Description | Explore |
 |---|---|---|---|
 | 01 | Introduction to Networking | Networking fundamentals and applications | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/01-Introduction-to-Computer-Networking) |
-| 02 | Types of Networks | LAN, WAN, MAN, PAN and WLAN | [Explore →](#02-Types-of-Networks) |
-| 03 | Network Architecture | Client-Server and Peer-to-Peer | [Explore →](#03-network-architecture) |
-| 04 | Network Components | Basic networking hardware | [Explore →](#04-network-components) |
-| 05 | Network Communication | How devices exchange data | [Explore →](#05-network-communication) |
-| 06 | Data Transmission | Simplex, Half-Duplex and Full-Duplex | [Explore →](#06-data-transmission) |
-| 07 | Network Performance | Bandwidth, Throughput, Latency and Jitter | [Explore →](#07-network-performance) |
-| 08 | Network Topologies | Star, Bus, Ring, Mesh and Hybrid | [Explore →](#08-network-topologies) |
-| 09 | Real-World Networks | Home, Office and Enterprise Networks | [Explore →](#09-real-world-networks) |
-| 10 | Practical Exercises | Hands-on networking fundamentals | [Explore →](#10-practical-exercises) |
+| 02 | Types of Networks | LAN, WAN, MAN, PAN and WLAN | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/02-Types-of-Networks) |
+| 03 | Network Architecture | Client-Server and Peer-to-Peer | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/03-Network-Architecture) |
+| 04 | Network Components | Basic networking hardware | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/04-Network-Components-Overview) |
+| 05 | Network Communication | How devices exchange data | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/05-How-Networks-Communicate) |
+| 06 | Data Transmission | Simplex, Half-Duplex and Full-Duplex | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/06-Data-Transmission-Basicsn) |
+| 07 | Network Performance | Bandwidth, Throughput, Latency and Jitter | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/07-Network-Performance-Metrics) |
+| 08 | Network Topologies | Star, Bus, Ring, Mesh and Hybrid | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/08-Network-Topologies-Overview) |
+| 09 | Real-World Networks | Home, Office and Enterprise Networks | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/09-Real-World-Networking-Examples) |
+| 10 | Practical Exercises | Hands-on networking fundamentals | [Explore →](https://github.com/tahirmehdi001-cyberexpert/Networking-Cybersecurity-Portfolio/tree/main/01-Networking-Fundamentals/01-Networking-Basics/10-Practical-Networking-Exercises) |
 
 These concepts form the foundation of my networking knowledge and support my ongoing learning in Cisco networking, network security, and cybersecurity.
 
