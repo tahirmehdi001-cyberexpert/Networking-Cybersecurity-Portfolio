@@ -143,4 +143,4 @@ After completing this section, I aim to:
 
 <p align="center">
   ⭐ Building a strong foundation for a career in Networking and Cybersecurity.
-</p>
+</p
