@@ -27,8 +27,8 @@ This section covers the fundamental concepts of computer networking, providing a
 
 | # | Topic | Description | Explore |
 |---|---|---|---|
-| 01 | Introduction to Networking | Networking fundamentals and applications | [Explore →](#01-introduction-to-networking) |
-| 02 | Types of Networks | LAN, WAN, MAN, PAN and WLAN | [Explore →](#02-types-of-networks) |
+| 01 | Introduction to Networking | Networking fundamentals and applications | [Explore →](#01-Introduction-to-Computer-Networking) |
+| 02 | Types of Networks | LAN, WAN, MAN, PAN and WLAN | [Explore →](#02-Types-of-Networks) |
 | 03 | Network Architecture | Client-Server and Peer-to-Peer | [Explore →](#03-network-architecture) |
 | 04 | Network Components | Basic networking hardware | [Explore →](#04-network-components) |
 | 05 | Network Communication | How devices exchange data | [Explore →](#05-network-communication) |
