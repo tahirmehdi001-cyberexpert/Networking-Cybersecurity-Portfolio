@@ -29,25 +29,6 @@ LANs commonly use **Ethernet** and network switches for wired connectivity. A **
 
 A LAN is typically owned, managed, and maintained by an individual, business, or institution.
 
-## 📚 Table of Contents
-
-- [🎯 Purpose of LAN](#-purpose-of-lan)
-- [⚙️ How LAN Works](#️-how-lan-works)
-- [🖼️ LAN Network Diagram](#️-lan-network-diagram)
-- [🧩 Components of LAN](#-components-of-lan)
-- [📡 Technologies and Protocols](#-technologies-and-protocols-used-in-lan)
-- [🏢 Types of LAN](#-types-of-lan)
-- [🏠 Real-World Examples](#-real-world-examples-of-lan)
-- [📊 Characteristics](#-characteristics-of-lan)
-- [✅ Advantages](#-advantages-of-lan)
-- [❌ Disadvantages](#-disadvantages-of-lan)
-- [🔐 LAN Security](#-lan-security-considerations)
-- [🆚 LAN vs PAN](#-lan-vs-pan)
-- [🧠 Key Takeaways](#-key-takeaways)
-- [🛠️ Practical Labs](#️-practical-learning)
-- [📚 Learning References](#-learning-references)
-- [🔗 Related Topics](#-related-topics)
-
 ---
 
 ## 🎯 Purpose of LAN
