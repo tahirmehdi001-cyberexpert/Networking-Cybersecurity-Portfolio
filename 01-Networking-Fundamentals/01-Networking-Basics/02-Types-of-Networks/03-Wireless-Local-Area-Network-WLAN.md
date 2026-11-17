@@ -68,7 +68,7 @@ A wireless access point (AP) provides connectivity between wireless clients and 
 The following diagram illustrates how wireless devices connect to a Local Area Network (LAN) through a Wireless Access Point or Wireless Router.
 
 <p align="center">
-  <img src="./images/WLAN.png"
+  <img src="images/WLAN.png"
        alt="Wireless Local Area Network (WLAN) Diagram"
        width="850">
 </p>
