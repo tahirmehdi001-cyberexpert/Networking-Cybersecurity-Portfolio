@@ -243,15 +243,15 @@ The access point coordinates wireless communication and provides connectivity to
 
 **Example:** A home or office Wi-Fi network.
 
-```mermaid
-flowchart TD
-    A[Laptop] --> D[Wireless Access Point]
-    B[Smartphone] --> D
-    C[Tablet] --> D
-    D --> E[Wired LAN]
-    E --> F[Router]
-    F --> G[Internet]
-```
+<p align="center">
+  <img src="./Images/Infrastructure_Mode.png"
+       alt="Wireless Local Area Network (WLAN) Architecture Diagram"
+       width="900">
+</p>
+
+<p align="center">
+  <i>Figure 1: Example of WLAN Infrastructure Mode</i>
+</p>
 
 ### B. Ad Hoc Mode
 
