@@ -61,16 +61,39 @@ A wireless access point (AP) provides connectivity between wireless clients and 
 6. **IP Configuration:** The device receives network configuration, commonly through DHCP.
 7. **Data Communication:** The device sends and receives data through the wireless network.
 
-### WLAN Communication Diagram
+---
 
-```mermaid
-flowchart TD
-    A[Wireless Laptop] --> D[Wireless Access Point]
-    B[Smartphone] --> D
-    C[Tablet] --> D
-    D --> E[Router / Gateway]
-    E --> F[Internet]
-```
+## 📊 WLAN Network Diagram
+
+The following diagram illustrates how wireless devices connect to a Local Area Network (LAN) through a Wireless Access Point or Wireless Router.
+
+<p align="center">
+  <img src="./images/WLAN.png"
+       alt="Wireless Local Area Network (WLAN) Diagram"
+       width="850">
+</p>
+
+### How to Understand the Diagram
+
+1. **Internet:** Provides access to external networks and online services.
+2. **Wireless Router / Access Point:** Provides wireless connectivity to nearby devices.
+3. **Wireless Signals:** Carry data between the access point and connected devices.
+4. **Client Devices:** Laptops, smartphones, tablets, printers, and smart TVs connect wirelessly.
+5. **Frequency Bands:** WLAN commonly operates using 2.4 GHz, 5 GHz, and 6 GHz bands, depending on device and access point support.
+
+### Key Components
+
+| Component | Function |
+|---|---|
+| Wireless Router | Connects the local network to the Internet and may provide Wi-Fi access. |
+| Access Point (AP) | Allows wireless devices to connect to a wired network. |
+| Wireless NIC | Enables a device to communicate over Wi-Fi. |
+| SSID | The name used to identify a wireless network. |
+| Wi-Fi | A family of wireless networking technologies based on IEEE 802.11 standards. |
+
+> **Key Point:** WLAN allows devices to communicate over a local network without requiring a physical Ethernet connection to every device.
+
+---
 
 *Illustration: Wireless devices connect to an access point, which provides access to the network.*
 
