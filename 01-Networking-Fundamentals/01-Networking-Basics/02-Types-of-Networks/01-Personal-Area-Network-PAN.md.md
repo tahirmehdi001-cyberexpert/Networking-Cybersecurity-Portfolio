@@ -41,6 +41,19 @@ For example, when a smartphone connects to wireless headphones through Bluetooth
 
 The devices communicate and exchange information using supported communication protocols.
 
+## 🖼️ PAN Network Diagram
+
+The following diagram illustrates how personal devices connect and communicate within a Personal Area Network (PAN).
+
+<p align="center">
+  <img src="./Images\PAN.png" alt="Personal Area Network Diagram" width="700" />
+</p>
+
+<p align="center">
+  <i>Figure 1: Basic Personal Area Network (PAN) Architecture</i>
+</p>
+
+
 ### Basic Working Process
 
 1. **Device Discovery:** Devices identify nearby compatible devices.
